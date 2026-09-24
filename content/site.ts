@@ -19,7 +19,7 @@ export const contact = {
   email: "777armansingh@gmail.com",
   phone: "+91 7381086147",
   phoneHref: "tel:+917381086147",
-  linkedin: "https://linkedin.com/in/armansingh",
+  linkedin: "https://linkedin.com/in/armansingh7",
   github: "https://github.com/ArmanSingh7",
   resume: "/Arman_Singh_Resume.pdf",
 } as const;
