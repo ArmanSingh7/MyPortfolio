@@ -155,3 +155,5 @@ components/             Nav, Hero, About, Experience, Projects, Skills, Contact,
 content/site.ts         ← all content lives here
 public/                 resume PDF
 ```
+
+
