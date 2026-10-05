@@ -21,7 +21,7 @@ export const contact = {
   phoneHref: "tel:+917381086147",
   linkedin: "https://linkedin.com/in/armansingh7",
   github: "https://github.com/ArmanSingh7",
-  resume: "/Arman_Singh_Resume.pdf",
+  resume: "/ArmanSingh_Resume.pdf",
 } as const;
 
 export const about = [
